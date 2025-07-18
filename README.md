@@ -1,3 +1,5 @@
+![FOTO 1](https://github.com/Mukeshmajhi001/NETplix/blob/master/NETFLIX/ScreenShort/Outlook.png?raw=true)
+![FOTO 2](https://github.com/Mukeshmajhi001/NETplix/blob/master/NETFLIX/ScreenShort/code.png?raw=true)
 # Netflix Sign-In Page Clone
 
 A responsive Netflix sign-in page clone built with HTML and CSS, designed to mimic the Netflix authentication interface.
